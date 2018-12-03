@@ -1,1 +1,3 @@
+git@github.com:linye1028/creative_electronic_production.git
+
 本项目式应电五年1701班级 创意电子制作课程的代码
